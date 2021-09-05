@@ -30,3 +30,15 @@
 <a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/magic_8_ball"></a>
 
 <img src="magic_8_ball/screenshots/screenshot_001.png" style='height: 300px'>
+
+## Xylophone
+
+<a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/xylophone"></a>
+
+<img src="xylophone/screenshots/screenshot_001.png" style='height: 300px'>
+
+## Quizzler
+
+<a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/quizzler"></a>
+
+<img src="quizzler/screenshots/screenshot_001.png" style='height: 300px'>
