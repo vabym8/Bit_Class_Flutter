@@ -1,1 +1,3 @@
-# Bit_Class_Flutter
+# Bit Class - Flutter App Development Course.
+
+## I Am Rich
