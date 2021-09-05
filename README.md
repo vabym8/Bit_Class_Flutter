@@ -18,3 +18,9 @@
 <a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/mi_card"></a>
 
 <img src="mi_card/screenshots/screenshot_001.png" style='height: 300px'>
+
+## Dice App
+
+<a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/dice_app"></a>
+
+<img src="dice_app/screenshots/screenshot_001.png" style='height: 300px'>
