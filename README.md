@@ -42,3 +42,9 @@
 <a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/quizzler"></a>
 
 <img src="quizzler/screenshots/screenshot_001.png" style='height: 300px'>
+
+## Destini
+
+<a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/destini"></a>
+
+<img src="destini/screenshots/screenshot_001.png" style='height: 300px'>

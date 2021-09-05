@@ -34,6 +34,9 @@ class _QuizPageState extends State<QuizPage> {
     bool correctAnswer = quizBrain.getCorrectAnswer();
     setState(() {
       if (quizBrain.isFinished() == true) {
+        /// ********************************************************
+        /// Alert from rFlutter is not showing with the new Flutter version.
+        /// ********************************************************
         print('Finished!');
         quizBrain.reset();
         scoreKeeper = [];
