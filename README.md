@@ -49,7 +49,7 @@
 
 <img src="destini/screenshots/screenshot_001.png" style='height: 300px'>
 
-## Destini
+## BMI Calculator
 
 <a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/bmi_calculator"></a>
 
