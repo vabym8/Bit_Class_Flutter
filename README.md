@@ -54,3 +54,7 @@
 <a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/bmi_calculator"></a>
 
 <img src="bmi_calculator/screenshots/screenshot_001.png" style='height: 300px'>
+
+## Quiz App (GetX Version)
+
+<a target="_blank" href="https://github.com/vabym8/Bit_Class_Flutter/tree/master/quiz"></a>

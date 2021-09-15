@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "animals",
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "title": "plants",
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "title": "birds",
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "title": "nature",
+        "enabled": true
+    }
+]

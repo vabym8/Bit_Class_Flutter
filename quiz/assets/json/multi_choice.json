@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "topic_id": 1,
+        "question": "Scientific name of cat.",
+        "choices": [
+            "Canis lupus familiaris",
+            "Felis catus",
+            "Canis lupus",
+            "Giraffa"
+        ],
+        "answer": "Felis catus",
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "topic_id": 1,
+        "question": "cats dont have.",
+        "choices": [
+            "Legs",
+            "Whiskers",
+            "Wings",
+            "Tails"
+        ],
+        "answer": "Wings",
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "topic_id": 1,
+        "question": "How many whiskers does the average cat have on each side of its face?",
+        "choices": [
+            "1",
+            "3",
+            "12",
+            "25"
+        ],
+        "answer": "12",
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "topic_id": 1,
+        "question": "When does a cat purr?",
+        "choices": [
+            "When it feels content",
+            "When it needs comfort",
+            "When it cares for its kittens",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "enabled": true
+    },
+    {
+        "id": 5,
+        "topic_id": 1,
+        "question": "Which part of a cats body can appear and disappear?",
+        "choices": [
+            "Claws",
+            "Eyes",
+            "Whiskers",
+            "Tail"
+        ],
+        "answer": "Claws",
+        "enabled": true
+    },
+    {
+        "id": 6,
+        "topic_id": 1,
+        "question": "What is the proper term for a group of kittens?",
+        "choices": [
+            "Kettle",
+            "Kaboodle",
+            "Kine",
+            "Kindle"
+        ],
+        "answer": "Kindle",
+        "enabled": true
+    },
+    {
+        "id": 7,
+        "topic_id": 1,
+        "question": "All cats are born with what color eyes?",
+        "choices": [
+            "Black",
+            "Blue",
+            "Pink",
+            "Green"
+        ],
+        "answer": "Blue",
+        "enabled": true
+    },
+    {
+        "id": 8,
+        "topic_id": 1,
+        "question": "What percentage of a cat’s bones are in its tail?",
+        "choices": [
+            "2%",
+            "No bones at all",
+            "20%",
+            "10%"
+        ],
+        "answer": "10%",
+        "enabled": true
+    }
+]

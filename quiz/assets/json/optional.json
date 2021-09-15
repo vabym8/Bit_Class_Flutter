@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "topic_id": 1,
+        "question": "Cat’s have four legs.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "topic_id": 1,
+        "question": "Cat’s are carnivorous.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "topic_id": 1,
+        "question": "Cat’s can fly.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "topic_id": 1,
+        "question": "Cat’s can swim.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 5,
+        "topic_id": 1,
+        "question": "Cat’s can see in dark.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 6,
+        "topic_id": 1,
+        "question": "The house cat’s ancestors were social animals.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 7,
+        "topic_id": 1,
+        "question": "Cats’ ancestors first appeared in the Pliocene Epoch (5.3 to 3.6 million years ago).",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 8,
+        "topic_id": 1,
+        "question": "The earliest known association between cats and humans dates to about 9,500 years ago.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 9,
+        "topic_id": 1,
+        "question": "Cats were considered a sacred animal in ancient Egypt because they were domesticated.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 10,
+        "topic_id": 1,
+        "question": "There are no authentic records of the domestication of cats before 1500 BCE.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 11,
+        "topic_id": 1,
+        "question": "The Manx cat is known for its long and tufted tail.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 12,
+        "topic_id": 1,
+        "question": "The ancestry of the Siamese cat breed is well known.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 13,
+        "topic_id": 1,
+        "question": "A mixed breed cat is always a happier and healthier pet than a pedigreed cat.",
+        "answer": false,
+        "enabled": true
+    },
+    {
+        "id": 14,
+        "topic_id": 1,
+        "question": "Seafood is not recommended for cats.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 15,
+        "topic_id": 1,
+        "question": "The average size of cat’s litter is four.",
+        "answer": true,
+        "enabled": true
+    },
+    {
+        "id": 16,
+        "topic_id": 1,
+        "question": "Wild cats can produce up to three litters a year, but domestic cats only breed once a year.",
+        "answer": false,
+        "enabled": true
+    }
+]
